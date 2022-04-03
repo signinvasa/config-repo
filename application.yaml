@@ -1,6 +1,0 @@
-xyz: testconfig
-server:
- port: 8088
-test:
- greeting:
-  message: Hello from Default environment configuration yml
