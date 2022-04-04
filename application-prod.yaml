@@ -3,3 +3,5 @@ server:
 test:
  greeting:
   message: Hello from Prod environment configuration yml
+prop1: value1
+prop2: value2
