@@ -2,6 +2,6 @@ server:
  port: 8090
 test:
  greeting:
-  message: Hello from Prod OOOOOOOOOO configuration yml
+  message: Hello from Prod PPPPPPPPP configuration yml
 prop1: value1
 prop2: value2
